@@ -1,0 +1,289 @@
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Ajustar bien tamano de fuente para cada h. */
+/* h1 {
+  font-size: 5.7vw !;
+}
+h2 {
+  font-size: 4.0vw;
+}
+h3 {
+  font-size: 2.8vw;
+} */
+
+
+@media (max-width: 800px) {
+  aside,
+  section {
+    width: auto;
+    float: none;
+  }
+}
+
+.title-style {
+  text-align: center;
+  font-weight: bold;
+}
+
+.text-align-left {
+  text-align: left !important;
+}
+
+.text-align-right {
+  text-align: right !important;
+}
+
+.no-padding-left-right-top {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 0px !important;
+}
+
+.no-padding-right {
+  padding-right: 0px !important;
+}
+
+.no-padding-left {
+  padding-left: 0px !important;
+}
+
+.background-color-kpi {
+  background-color: #30302f !important;
+  /* background-color: red; */
+}
+
+div .value {
+  padding: 0px !important;
+}
+.no-padding-total {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.align-left {
+  text-align: left !important;
+}
+
+.no-padding-left {
+  padding-left: 0px;
+}
+
+.align-item-center {
+  text-align: center;
+}
+
+.no-margin-total {
+  margin: 0px !important;
+}
+
+.no-margin-kpi {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+.no-margin-top-bottom {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0px !important;
+}
+
+.no-margin-top {
+  margin-top: 0px !important;
+}
+
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
+.ui.notification .content .action-wrapper {
+  margin-top: 0 !important;
+}
+
+.card-border {
+  border: inset !important;
+  border-color: grey !important;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.center-hx-number {
+  margin: 0;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-25%, -25%);
+}
+
+.font-size-xxlarge {
+  font-size: xx-large;
+}
+
+.word-wrap {
+  word-wrap: break-word;
+}
+
+.margin-top-65 {
+  margin-top: 65% !important;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.inline-grid {
+  display: inline-grid !important;
+}
+
+.justify-content-center {
+  justify-content: center !important;
+}
+
+.font-weight-800 {
+  font-weight: 800 !important;
+}
+
+/* .ui.statistic > .label.title {
+  font-size: 10px !important;
+  font-weight: 900;
+}
+
+.ui.statistics .statistic > .value ~ .label,
+.ui.statistic > .value ~ .label {
+  font-size: 10px !important;
+}  */
+
+.no-padding-left-right {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.six-padding-left-right {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.no-padding-bottom {
+  padding-bottom: 0px !important;
+}
+
+.font-size-10-px {
+  font-size: 10px !important;
+}
+
+.padding-top-five {
+  padding-top: 11%;
+}
+
+.ui.card .header {
+  font-size: 14px;
+}
+
+.ui.card .meta {
+  font-size: 11px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.ui.notification .content {
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.ui.notification .icon {
+  padding-left: 5px;
+  padding-top: 24px;
+}
+
+.ui.notification .content .heading .title {
+  font-size: 13px;
+}
+
+.ui.notification .content .message {
+  font-size: 14px;
+}
+.ui.notification .content .action-wrapper .action {
+  font-size: 12px;
+}
+
+.button-content {
+  font-size: 12px;
+}
+
+.range-selector {
+  display: none;
+}
+
+.margin-top-30px {
+  margin-top: -30px;
+}
+
+#link {
+  color: white;
+}
+
+.color-white {
+  color: white;
+}
+
+.highcharts-data-label-box {
+  display: none !important;
+}
+
+tspan {
+  font-size: 21px !important;
+  color: #e0e0e0 !important;
+  fill: #e0e0e0 !important;
+}
+
+.height-300px {
+  height: 300px !important;
+}
+
+.text-align-left {
+  text-align: left !important;
+}
+
+.marker-icon {
+  color: #30acfe !important;
+}
+
+.font-size-h4 {
+  font-size: 1.07142857rem !important;
+  font-weight: bold;
+}
+
+.padding-20 {
+  padding-top: 25px;
+}
+
+.background-color-dark {
+  -webkit-box-shadow: 0px 10px 10px 1px rgba(33, 33, 33, 0.3) !important;
+  -moz-box-shadow: 0px 10px 10px 1px rgba(33, 33, 33, 0.3) !important;
+  box-shadow: 0px 10px 10px 1px rgba(33, 33, 33, 0.3) !important;
+}
+
+.margin-bottom-10px {
+  margin-bottom: 10px !important;
+}
+
+
+
+
+
+
